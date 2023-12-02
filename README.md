@@ -1,6 +1,5 @@
 <h1 align="left">Hello there!👋<br>I am Satabdo Majumder<br>Full-Stack Developer from India</h1>
 
-📄 Resume: [https://drive.google.com/file/d/1S25y4mc68m0Z9jlPnqd8pcdaNFzYzIKN/view?usp=sharing](https://drive.google.com/file/d/1S25y4mc68m0Z9jlPnqd8pcdaNFzYzIKN/view?usp=sharing)
 ###
 
 <div align="center">
@@ -64,8 +63,9 @@
   <a href="https://twitter.com/SatabdoM" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://linktr.ee/SatabdoM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
@@ -87,7 +87,3 @@
 </div>
 
 ###
-
-
-
-
