@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Satabdo and I'm a Full-Stack Developer, from India</h2>
+<h1 align="left">Hello there!👋<br>I am Satabdo Majumder<br>Full-Stack Developer from India</h1>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -58,15 +58,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="satabdomajumdertech@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/satabdo-majumder-a77a30238/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://twitter.com/SatabdoM" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ###
@@ -78,8 +80,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/ccojzf5ufl6dkj75yaxpg5l78?si=T-lDuoIVRwSLRPGUcvtt2w&utm_source=whatsapp&nd=1&dlsi=3e48a45c4625473b">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ccojzf5ufl6dkj75yaxpg5l78?si=T-lDuoIVRwSLRPGUcvtt2w&utm_source=whatsapp&nd=1&dlsi=3e48a45c4625473b&count=7&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/ccojzf5ufl6dkj75yaxpg5l78">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ccojzf5ufl6dkj75yaxpg5l78&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
