@@ -3,17 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/uNp22kQO4QCxa/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -57,7 +53,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="satabdomajumdertech@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -76,6 +72,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SatabdoM/SatabdoM/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" height="350" src="https://media.giphy.com/media/uNp22kQO4QCxa/giphy.gif"  />
 
 ###
 
