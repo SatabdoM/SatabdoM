@@ -1,4 +1,6 @@
-<h1 align="left">Hello there!👋<br>I am Satabdo Majumder<br>Full-Stack Developer from India</h1>
+<br clear="both">
+
+<h1 align="left">Hello there!👋<br>I am Satabdo<br>MERN stack developer from India</h1>
 
 ###
 
@@ -70,20 +72,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SatabdoM/SatabdoM/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="350" src="https://media.giphy.com/media/uNp22kQO4QCxa/giphy.gif"  />
-
-###
-
 <div align="center">
-  <a href="https://open.spotify.com/user/ccojzf5ufl6dkj75yaxpg5l78">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ccojzf5ufl6dkj75yaxpg5l78&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  <img height="200" src="https://media.giphy.com/media/9cZQnwdzUXTDG/giphy.gif"  />
 </div>
 
 ###
