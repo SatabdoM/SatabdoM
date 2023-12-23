@@ -15,9 +15,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatabdoM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="180" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatabdoM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=My%20Stats" height="180" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="180" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&custom_title=Programming%20Languages" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -97,7 +97,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<img align="left" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
