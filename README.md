@@ -49,6 +49,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" alt="nodejs logo"  />
@@ -64,11 +66,11 @@
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="satabdomajumdertech@gmail.com" target="_blank">
@@ -87,12 +89,22 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SatabdoM.SatabdoM&left_color=darkcyan&right_color=blueviolet&left_text=Friends"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SatabdoM.SatabdoM&left_color=darkcyan&right_color=blueviolet&left_text=Friends"  />
+</div>
 
 ###
 
-<br clear="both">
+<img align="right" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
-<img src="https://raw.githubusercontent.com/SatabdoM/SatabdoM/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ccojzf5ufl6dkj75yaxpg5l78">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ccojzf5ufl6dkj75yaxpg5l78&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
