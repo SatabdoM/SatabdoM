@@ -10,13 +10,13 @@
 
 <br clear="both">
 
-<img align="right" height="190" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatabdoM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatabdoM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="180" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=SatabdoM&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="180" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SatabdoM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
