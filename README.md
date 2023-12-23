@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">🙋🏻‍♂️I am Satabdo Majumder<br>👨‍💻Full Stack Developer in MERN<br>📄Resume: https://bit.ly/3NlGZXd<br>🤝Let's collaborate and grow together<br>😎I drink code and write coffee</h4>
+<h4 align="left">🙋🏻‍♂️I am Satabdo Majumder<br>👨‍💻Full Stack Developer in MERN<br>😎I drink code and write coffee<br>📄Resume: https://bit.ly/3NlGZXd<br>🤝Let's collaborate and grow together</h4>
 
 ###
 
