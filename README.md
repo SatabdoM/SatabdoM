@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Hello there!👋</h1>
+<h1 align="left">Hi fellow Developer👋</h1>
 
 ###
 
@@ -100,11 +100,4 @@
 <img align="left" height="250" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ccojzf5ufl6dkj75yaxpg5l78">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ccojzf5ufl6dkj75yaxpg5l78&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
