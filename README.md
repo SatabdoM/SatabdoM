@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">Hi👋</h1>
+<h1 align="left">Hello there</h1>
 
 ###
 
-<h4 align="left">🙋🏻‍♂️I am Satabdo Majumder<br>👨‍💻Full Stack Developer in MERN<br>📄Resume: https://bit.ly/3NlGZXd<br>🤝Let's collaborate and grow together</h4>
+<h4 align="left">Hello I'm Satabdo <br>I build end to end full-stack projects in MERN And NextJD <br> Lets connect: https://linktr.ee/SatabdoM d<br>
 
 ###
 
