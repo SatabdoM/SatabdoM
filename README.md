@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">Hello brethren of Code!</h1>
+<h1 align="left">Hello brethren of Code!👋</h1>
 
 ###
 
-<h4 align="left">I'm Satabdo <br>I love coding, reading, sketching and playing guitar <br> I build end to end full-stack projects in MERN And NextJS <br>Lets connect: https://linktr.ee/SatabdoM <br>
+<h4 align="left">I'm Satabdo <br>I love coding🧑🏻‍💻, reading📕, sketching🖌️ and playing guitar🎸 <br> I build end to end full-stack projects in MERN And NextJS <br>Happy to connect: https://linktr.ee/SatabdoM <br>
 
 ###
 
