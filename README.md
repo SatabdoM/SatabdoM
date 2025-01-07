@@ -1,10 +1,10 @@
 <br clear="both">
 
-<h1 align="left">Hello there</h1>
+<h1 align="left">Hello there!</h1>
 
 ###
 
-<h4 align="left">Hello I'm Satabdo <br>I build end to end full-stack projects in MERN And NextJD <br> Lets connect: https://linktr.ee/SatabdoM d<br>
+<h4 align="left">Hello I'm Satabdo <br>I build end to end full-stack projects in MERN And NextJS <br> Lets connect: https://linktr.ee/SatabdoM <br>
 
 ###
 
@@ -90,10 +90,6 @@
 ###
 
 <br clear="both">
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SatabdoM.SatabdoM&left_color=darkcyan&right_color=blueviolet&left_text=Friends"  />
-</div>
 
 ###
 
