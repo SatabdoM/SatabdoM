@@ -30,18 +30,10 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hsZjBvbzNnZDJlcnlwcWUyNzB0czl1a3hlZHJha2ZnY2RvMWs0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10sKNgit3jiU2A/giphy.gif"  />
+<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cHE5NjIzM3pyY2ZhNXF1emN2N3k5N2wzNzNyNHloNHI4eGppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5eWOY0/giphy.gif"  />
 
 ###
 
-<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cHE5NjIzM3pyY2ZhNXF1emN2N3k5N2wzNzNyNHloNHI4eGppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5eWOY0/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-</div>
+<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
