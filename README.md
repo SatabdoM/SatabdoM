@@ -30,10 +30,28 @@
 
 ###
 
-<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cHE5NjIzM3pyY2ZhNXF1emN2N3k5N2wzNzNyNHloNHI4eGppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5eWOY0/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cHE5NjIzM3pyY2ZhNXF1emN2N3k5N2wzNzNyNHloNHI4eGppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5eWOY0/giphy.gif"  />
+</div>
 
 ###
 
-<img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<br clear="both">
+
+<div align="center">
+  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
 ###
