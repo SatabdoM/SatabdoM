@@ -1,10 +1,39 @@
 <br clear="both">
 
-<h1 align="left">Hello brethren of Code!👋</h1>
+<h1 align="center">Hey, I'm Satabdo 👋</h1>
 
-###
+<p align="center">
+  🚀 Full-stack Developer | System Architect in the Making  
+  <br>
+  🧑🏻‍💻 Coding | 📕 Reading | 🖌️ Sketching | 🎸 Shredding Strings  
+</p>
 
-<h4 align="left">I'm Satabdo <br>I love coding🧑🏻‍💻, reading📕, sketching🖌️ and playing guitar🎸 <br> I build end to end full-stack projects in MERN And NextJS <br>Happy to connect: https://linktr.ee/SatabdoM <br>
+---
+
+### 🚀 About Me  
+💡 Building **Scalable Systems** with **MERN, Next.js & Beyond**  
+⚡ Breaking **Monoliths** | Optimizing **Performance** | Crafting **Clean Code**  
+
+📌 **Tech Stack:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+---
+
+### 🏆 The Algorithm to Greatness:  
+const generateWorldsBestDev = (name: string = "Satabdo"): void => {
+  while (true) {
+    coffee();             // Fueling the brain ☕ 🧠
+    code();               // Writing Legendary lines of code ✨👨‍💻
+    if (bored) playHeavyMetal(); // Metal music to stay in the zone 🤘🎸
+    sleep();              // Recharge the brain 😴⚡ (Might delete later)
+  }
+};
+
 
 ###
 
