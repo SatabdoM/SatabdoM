@@ -1,80 +1,47 @@
-<h1 align="center">Hey, I'm Satabdo 🤘</h1>
+<h1 align="center">Satabdo Majumder</h1>
 
-<p align="center">
-  🚀 Rockstar Programmer | Architecting Scalable Systems | Breaking Limits  
-</p>
+###
 
----
+<p align="center">🔥 Building Flamelog<br>🧠 Thinking high-performance, distributed systems that scale <br>💻 code && drinkCoffee && playGuitar || sleep  <br>⚡I know nothing and I will learn absolutely everything</p>
 
-### 🚀 About Me  
-💡 Architecting **Flamelog**, a Twitter-like platform for learners  
-⚡ Building **high-performance, distributed systems** that scale  
+###
 
-📌 **Tech Stack:**  
+<h2 align="center">Tech Stack:</h2>
 
-#### 🎨 Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" style="margin: 5px;" />
-</p>
+###
 
-#### ⚙️ Backend  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" style="margin: 5px;" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-#### 🗄️ Database & Caching  
-<p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" style="margin: 5px;" />
-</p>
+###
 
-#### 🔄 Message Broker  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" style="margin: 5px;" />
-</p>
+<br clear="both">
 
-#### 📡 API & Gateway  
-<p align="left">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-REST-FF6C37?style=flat-square&logo=rest&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" style="margin: 5px;" />
-</p>
+<img align="left" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2hsZjBvbzNnZDJlcnlwcWUyNzB0czl1a3hlZHJha2ZnY2RvMWs0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10sKNgit3jiU2A/giphy.gif"  />
 
-#### 📦 Infrastructure  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" style="margin: 5px;" />
-</p>
+###
 
-#### 🛠️ Testing  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" style="margin: 5px;" />
-</p>
+<img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cHE5NjIzM3pyY2ZhNXF1emN2N3k5N2wzNzNyNHloNHI4eGppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5eWOY0/giphy.gif"  />
 
----
+###
 
-### 🏆 The Rockstar Programmer Algorithm  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-github-username/your-repo/main/path-to-image.png" alt="World's Best Dev" width="80%">
-</p>
+<div align="center">
+  <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
 
----
-
-### 🌐 Connect with Me:  
-<p>
-  <a href="https://linktr.ee/SatabdoM">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px;" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin: 5px;" />
-  </a>
-</p>
-
----
-
-💀 **"Code. Ship. Scale. Repeat."** 🚀
+###
