@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🔥 Building Flamelog<br>🧠 Thinking high-performance, distributed systems that scale <br>💻 code && drinkCoffee && playGuitar || sleep  <br>⚡I know nothing and I will learn absolutely everything</p>
+<p align="center">🔥 Building cool shit<br>🧠 Thinking high-performance, distributed systems that scale <br>💻 code && drinkCoffee && playGuitar || sleep  <br>⚡I know nothing and I will learn absolutely everything</p>
 
 ###
 
