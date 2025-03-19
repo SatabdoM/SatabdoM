@@ -73,7 +73,7 @@
 
 ###
 
-<h2 align="center">literraly me</h2>
+<h2 align="center">literally me</h2>
 
 ###
 
