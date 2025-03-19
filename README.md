@@ -2,11 +2,11 @@
 
 ###
 
-<p align="center">🔥 Building cool shit<br>🧠 Thinking high-performance, distributed systems that scale <br>💻 code && drinkCoffee && playGuitar || sleep  <br>⚡I know nothing and I will learn absolutely everything</p>
+<p align="center"> building flamelog <br> thinking cool tech products and how to build them <br> return (code && drinkCoffee && playGuitar || sleep) <br>
 
 ###
 
-<h2 align="center">Tech Stack:</h2>
+<h2 align="center">tech stack</h2>
 
 ###
 
