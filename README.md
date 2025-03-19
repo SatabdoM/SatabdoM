@@ -59,7 +59,7 @@
 
 ###
 
-<h2 align="center">lets connect</h2>
+<h2 align="center">connect?</h2>
 
 ###
 
