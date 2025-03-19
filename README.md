@@ -1,12 +1,11 @@
-<h1 align="center">Satabdo Majumder</h1>
+
+###
+<h2 align="center">my day</h2>
+<p align="left"> buildFlamelog(); <br> buildStartUp(); <br> return (code && drinkCoffee && playGuitar || sleep); <br>
 
 ###
 
-<p align="center"> building flamelog <br> thinking cool tech products and how to build them <br> return (code && drinkCoffee && playGuitar || sleep) <br>
-
-###
-
-<h2 align="center">tech stack</h2>
+<h2 align="center">building in</h2>
 
 ###
 
@@ -60,7 +59,7 @@
 
 ###
 
-<h2 align="center">Happy to connect:</h2>
+<h2 align="center">lets connect</h2>
 
 ###
 
@@ -74,24 +73,13 @@
 
 ###
 
-<h2 align="center">Cool GIFs :</h2>
+<h2 align="center">literraly me</h2>
 
 ###
 
 <br clear="both">
-<div align="center">
+<div align="left">
   <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
-
-
-
-###
-
-<br clear="both">
-<div align="center">
-  <img height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHM0cHE5NjIzM3pyY2ZhNXF1emN2N3k5N2wzNzNyNHloNHI4eGppbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgpernHLP5eWOY0/giphy.gif"  />
-</div>
-
-
 
 ###
