@@ -1,7 +1,7 @@
 
 ###
 <h2 align="center">my day</h2>
-<p align="left"> buildFlamelog(); <br> buildStartUp(); <br> return (code && drinkCoffee && playGuitar || sleep); <br>
+<p align="left"> devAtWork() <br> buildStartUp(); <br> return (code && drinkCoffee && playGuitar || sleep); <br>
 
 ###
 
