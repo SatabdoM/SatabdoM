@@ -5,11 +5,11 @@
 
 ###
 
-<h2 align="center">building in</h2>
+<h2 align="center">stack</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -59,11 +59,11 @@
 
 ###
 
-<h2 align="center">connect?</h2>
+<h2 align="center">connect</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -73,12 +73,12 @@
 
 ###
 
-<h2 align="center">literally me(kind of)</h2>
+<h2 align="center">let's lock in</h2>
 
 ###
 
 <br clear="both">
-<div align="left">
+<div align="center">
   <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExams2ajMwMDQzdWRnbjI1Nm55cmNiNGFjYzF0a2h2YmcwcmhpNXB0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
